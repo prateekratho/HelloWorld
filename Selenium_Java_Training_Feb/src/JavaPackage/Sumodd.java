@@ -15,7 +15,7 @@ public class Sumodd {
 	}
 
 
-	public static void main(String[] args) {
+	public static void main(String[] args) {	
 		// Enter 3 numbers from the user & make a function to print their average.
 		Scanner sc = new Scanner(System.in);
 		// Write a function to print the sum of all odd numbers from 1 to n.
