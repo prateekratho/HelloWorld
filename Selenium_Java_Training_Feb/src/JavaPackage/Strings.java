@@ -7,6 +7,8 @@ public class Strings {
 	public static void main(String[] args) {
 		// String Declaration
 		//String name = "Tony";
+		char c1 = 064770;
+		System.out.println(c1);
 		//String fullName = "Tony Stark";
 		//String sentence="My Name is Tony Stark.";
 		//Scanner sc = new Scanner(System.in);
