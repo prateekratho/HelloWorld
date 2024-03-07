@@ -1,4 +1,4 @@
-//Take an array of names as input from the user and print them on the screen.
+ //Take an array of names as input from the user and print them on the screen.
 package JavaPackage;
 
 import java.util.*;
@@ -19,6 +19,7 @@ public class Arrays {
        //print the numbers in array
        for(int i=0; i<numbers.length; i++) {
            System.out.println(numbers[i]+" ");
+           
        }
    }
 }
